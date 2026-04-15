@@ -10,20 +10,20 @@ Developed a Big Data Weather Analytics solution using Python and Pandas to effic
 
 🚀 Features
 
-Data cleaning and preprocessing
-Exploratory Data Analysis (EDA)
-GroupBy operations for aggregation
-Trend and pattern identification
-Data visualization using charts
-Automated data processing
+* Data cleaning and preprocessing
+* Exploratory Data Analysis (EDA)
+* GroupBy operations for aggregation
+* Trend and pattern identification
+* Data visualization using charts
+* Automated data processing
 
 🛠️ Technologies Used
 
-Python
-Pandas
-NumPy
-Matplotlib
-Jupyter Notebook
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Jupyter Notebook
 
 📊 Key Analysis
 
@@ -32,11 +32,7 @@ Jupyter Notebook
 🌦️ Weather condition distribution
 ⏱️ Time-based insights
 
-⚙️ How to Run
 
-Clone this repository
-Open the .ipynb file in Jupyter Notebook
-Run all cells
 
 📈 Outcome
 
